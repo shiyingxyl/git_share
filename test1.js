@@ -4,3 +4,5 @@ var b = 2;
 console.log("hello world2");
 var c = 3;
 console.log("hello world3");
+var c = 4;
+console.log("hello world4");
