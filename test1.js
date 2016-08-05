@@ -10,6 +10,8 @@ var c = 5;
 console.log("hello world5");
 var c = 7;
 console.log("hello world7");
+var c = 11;
+console.log("add hello world11");
 var c = 9;
 console.log("add hello world9");
 var c = 6;
