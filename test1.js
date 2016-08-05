@@ -12,6 +12,8 @@ var c = 7;
 console.log("hello world7");
 var c = 8;
 console.log("add hello world8");
+var c = 12;
+console.log("add hello world12");
 var c = 11;
 console.log("add hello world11");
 var c = 10;
