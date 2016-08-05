@@ -8,5 +8,7 @@ var c = 4;
 console.log("hello world4");
 var c = 5;
 console.log("hello world5");
+var c = 7;
+console.log("hello world7");
 var c = 6;
 console.log("hello world6");
