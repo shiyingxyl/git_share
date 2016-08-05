@@ -10,5 +10,7 @@ var c = 5;
 console.log("hello world5");
 var c = 7;
 console.log("hello world7");
+var c = 9;
+console.log("add hello world9");
 var c = 6;
 console.log("hello world6");
